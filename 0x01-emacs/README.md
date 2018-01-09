@@ -1,0 +1,1 @@
+This is the README file for project 2 which covers emacs.
